@@ -1,0 +1,4 @@
+
+## [WEB]
+
+Flag format : FLAG{}

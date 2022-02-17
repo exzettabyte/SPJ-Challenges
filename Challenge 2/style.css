@@ -1,0 +1,20 @@
+body {
+  margin:auto;
+  position:relative;
+  width:80%;
+  padding: 0;
+  font-family: 'Trebuchet MS', Verdana, sans-serif;
+  background: #F8F8F8;
+}
+.wrapper {
+  width: 350px;
+  box-shadow: 1px 2px 4px rgba(0, 0, 0, .5);
+  margin: 10% auto;
+  padding: 30px;
+}
+form input {
+  width: 80%;
+  height: 30px;
+  border: 1px solid black;
+  padding: 5px;
+}
